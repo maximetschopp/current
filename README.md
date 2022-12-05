@@ -1,2 +1,2 @@
 # current
-Spectogram Plugin
+Spectrogram Editing Plugin
